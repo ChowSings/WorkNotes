@@ -47,9 +47,9 @@
 *斜体*
 ```
 
-**加粗**
+**强调加粗**
 ```
-**加粗**
+**强调加粗**
 ```
 
 ~~删除线~~
@@ -106,9 +106,23 @@
 3. 有序列表3
 ```
 
-分割线
+水平分割线
 
 ---
 ```
 ---
+```
+
+链接
+
+[链接文字](https://github.com/ "Title属性")
+```
+[链接文字](https://github.com/ "Title属性")
+```
+
+图片
+
+![Alt属性](https://avatars1.githubusercontent.com/u/3196768?s=96&v=4 "标题属性")
+```
+![Alt属性](https://avatars1.githubusercontent.com/u/3196768?s=96&v=4 "标题属性")
 ```
